@@ -1,0 +1,32 @@
+.sect-6 {
+  display: flex;
+  padding-left: 157px;
+  padding-right: 157px;
+  gap: 90px;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.left h1 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 160%;
+  color: orange;
+}
+.left span {
+  color: #2f327d;
+}
+.left p {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 180%;
+  letter-spacing: 2%;
+  width: 645px;
+  color: #696984;
+}
+.right img {
+  width: 717.687744140625px;
+  height: 479.1550598144531px;
+}
