@@ -1,0 +1,35 @@
+
+.lkj{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin: 100px;
+}
+
+.kju{
+    color: orange;
+    font-size: 36px;
+}
+
+.pp img{
+width: 600px;
+}
+
+.left h2{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 39px;
+line-height: 160%;
+letter-spacing: 0%;
+color: #2F327D;
+}
+
+.left p{
+    font-family: Poppins;
+font-weight: 400;
+margin-top: 20px;
+font-size: 24px;
+line-height: 180%;
+letter-spacing: 2%;
+color: #696984;
+}
