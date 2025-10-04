@@ -1,0 +1,127 @@
+.kow{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 28px;
+leading-trim: NONE;
+line-height: 160%;
+letter-spacing: 2%;
+color: #696984;
+text-align: center;
+margin: 40px;
+}
+
+.kj{
+font-family: Poppins;
+font-weight: 600;
+font-size: 44px;
+leading-trim: NONE;
+line-height: 180%;
+letter-spacing: 0%;
+text-align: center;
+color: #2F327D;
+}
+
+span{
+    color: orange;
+    font-family: Poppins;
+font-weight: 600;
+font-size: 44px;
+leading-trim: NONE;
+line-height: 180%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.po{
+    font-family: Poppins;
+font-weight: 400;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 180%;
+letter-spacing: 2%;
+text-align: center;
+color: #696984;
+width: 850px;
+margin-left: 300px;
+}
+
+.imgla{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+
+.ui{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+    margin-top: 60px;
+}
+
+.ij{
+padding: 100px;
+border-radius: 20px;
+}
+.kima{
+    padding: 100px;
+    border-radius: 20px;
+}
+.kima h3{
+    font-family: Poppins;
+font-weight: 600;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color:white;
+}
+.ij h3{
+    font-family: Poppins;
+font-weight: 600;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+}
+
+.ij button{
+  padding: 10px 20px;
+  background: transparent; /* tugma fonini shaffof */
+  border: 2px solid #3498db; /* chiroyli ko‘k border */
+  color: #3498db;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+    margin-left: 60px;
+  margin-top: 40px;
+}
+.kima button{
+  padding: 10px 20px;
+  background: transparent; /* tugma fonini shaffof */
+  border: 2px solid #3498db; /* chiroyli ko‘k border */
+  color: #3498db;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+
+.kima button:hover {
+  background: #3498db; /* hover paytida och ko‘k */
+  color: white;        /* matn oq bo‘ladi */
+}
+.ij button:hover{
+      background: #3498db; /* hover paytida och ko‘k */
+  color: white;        /* matn oq bo‘ladi */
+}
