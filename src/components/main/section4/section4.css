@@ -1,0 +1,63 @@
+
+.sect4-text h3{
+font-weight: 700;
+font-size: 36px;
+line-height: 180%;
+letter-spacing: 0%;
+color: #2F327D;
+}
+
+.sect4-text h3 span{
+    color: orange;
+}
+
+.sect4-text p{
+font-weight: 400;
+font-size: 24px;
+line-height: 180%;
+letter-spacing: 0%;
+text-align: center;
+color: #696984;
+}
+
+.sect4-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.sect4-next-t h3{
+font-weight: 600;
+font-size: 40px;
+line-height: 160%;
+letter-spacing: 0%;
+width: 393px;
+}
+
+.sect4-next-t h3 span{
+    color: orange;
+}
+
+
+.sect4-next-t p{
+font-weight: 400;
+font-size: 22px;
+line-height: 180%;
+letter-spacing: 2%;
+color: #696984;
+width: 568px;
+margin-top: 20px;
+}
+
+.sect4-next{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.section4{
+    margin-bottom: 30px;
+}

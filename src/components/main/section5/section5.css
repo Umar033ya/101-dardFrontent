@@ -1,0 +1,31 @@
+
+
+.section5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.sect5-right h3{
+font-weight: 600;
+font-size: 40px;
+line-height: 160%;
+letter-spacing: 0%;
+width: 347px;
+color: #2F327D;
+}
+
+.sect5-right h3 span{
+    color: orange;
+}
+
+.sect5-right p{
+font-weight: 400;
+font-size: 22px;
+line-height: 180%;
+letter-spacing: 2%;
+color: #696984;
+width: 596px;
+margin-top: 20px;
+} 
